@@ -21,4 +21,4 @@ A Power BI dashboard to visualize and analyze sales performance, profit, deliver
 ![Dashboard Preview](Lokmart-Dashboard.png)
 
 ## 🌐 Portfolio
-Check out more projects at: [https://rabishankar21.github.io](https://rabishankar21.github.io)
+Check out more projects at: [https://rabisankar.online](https://rabisankar.online)
